@@ -53,7 +53,7 @@ function Search() {
             </span>
           </button>
         </Link>
-        <h3 className="text-primary">Recipe Finder</h3>
+        <h3 className="text-danger">Recipe Finder</h3>
         <p className="text-secondary">Search, Cook, Enjoy!</p>
       </center>
       <div className="container mt-4">
